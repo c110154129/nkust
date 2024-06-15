@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419362090608",
+    "project_id": "flutteremail-ab337",
+    "storage_bucket": "flutteremail-ab337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419362090608:android:a7dfae0b91f1af493fceb5",
+        "android_client_info": {
+          "package_name": "com.example.nkust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419362090608-r662kdbasgl59muei5l26bfhfjrfm490.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nkust",
+            "certificate_hash": "85078306ae9250fe7e0688de6b331b9cd288d2ab"
+          }
+        },
+        {
+          "client_id": "419362090608-fsll7glgvjnja7sof4bi7j1gc7s5q6fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdXBjG1dJ-CJnh2hPpS0dPJwrO_WPuRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419362090608-fsll7glgvjnja7sof4bi7j1gc7s5q6fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

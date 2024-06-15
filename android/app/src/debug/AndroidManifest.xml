@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The INTERNET permission is required for development. Specifically,
+         the Flutter tool needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- 存取權限-->
+   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 相機-->
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <!-- 麥克風-->
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+
+</manifest>
